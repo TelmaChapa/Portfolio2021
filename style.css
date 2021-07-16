@@ -80,6 +80,12 @@ body {
         font-weight: bold;
     }
 
+    .btn {
+        width: 200px;
+        margin: auto;
+
+    }
+
     #contactForm{
         width: 750px;
         border:7px solid slategrey;
@@ -93,8 +99,5 @@ body {
         text-align: center;
     }
     
-    .fa-github-square{
-        font-size: 6em;
-    }
 
 
